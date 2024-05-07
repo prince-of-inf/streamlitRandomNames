@@ -55,7 +55,7 @@ def generate_names_markov_chain(df, starts, names, ngram_order, n=10, name_exist
                 break
         if return_list:
             # if only non-existing names - check if exists
-            if name_exist_flag == False:
+            if name_exist_flag == True:
                 if (re.sub('[^a-zA-Z]+', '', word[0]) in names) == True:
                     continue
             l.append(word[0])
