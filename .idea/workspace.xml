@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ebf4ca5-1397-49f6-bba7-e47de52b4d11" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/streamlitRandomNames.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/african.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/albanian.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/ancient-egyptian.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/ancient.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/arabic.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/biblical-hebrew.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/celtic-mythology.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/chinese.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/czech.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/dutch.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/egyptian-mythology.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/english.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/filipino.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/finnish-mythology.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/french.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/german.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/germanic-mythology.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/germanic.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/greek.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/hebrew.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/hungarian.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/icelandic.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/indian.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/indonesian.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/italian.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/japanese.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/korean.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/lithuanian.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/medieval-spanish.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/mongolian.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/mythology.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/native-american.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/near-eastern-mythology.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/norse-mythology.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/norwegian.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/persian.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/phoenician.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/polish.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/portuguese.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/russian.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/spanish.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/swedish.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/turkish.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/ukrainian.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/vietnamese.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names/yiddish.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2g8BIc21tHUHyD9OWWJDQX0SZd2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1_main.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/bartek/PycharmProjects/streamlitRandomNames/names"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/names" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ebf4ca5-1397-49f6-bba7-e47de52b4d11" name="Changes" comment="" />
+      <created>1715069246017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715069246017</updated>
+    </task>
+    <servers />
+  </component>
+</project>
