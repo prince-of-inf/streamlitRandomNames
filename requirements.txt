@@ -1,0 +1,5 @@
+streamlit~=1.32.0
+numpy~=1.26.4
+pandas~=2.2.1
+nltk~=3.8.1
+unidecode~=1.2.0
