@@ -1,3 +1,5 @@
+# app URL
+# https://rpg-random-names.streamlit.app/
 from functions import *
 import streamlit as st
 import os
