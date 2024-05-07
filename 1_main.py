@@ -1,5 +1,3 @@
-import pandas as pd
-
 from functions import *
 import streamlit as st
 import os

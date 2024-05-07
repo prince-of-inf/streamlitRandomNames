@@ -1,7 +1,4 @@
 import re  # regullar expression
-import string
-from collections import Counter
-from string import digits
 
 import numpy as np
 import pandas as pd
