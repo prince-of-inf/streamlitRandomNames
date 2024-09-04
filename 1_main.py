@@ -13,10 +13,10 @@ nations = sorted(nations)
 # Sidebar layout
 st.sidebar.title("How to use:")
 st.sidebar.markdown(" • Select nations")
-st.sidebar.markdown(" • Adjust the order, chaos, and other options as needed")
-st.sidebar.markdown(" • Select the display style from the radio buttons")
+st.sidebar.markdown(" • Adjust the order, chaos, and display style")
 st.sidebar.markdown(" • Click the 'Generate Names' button to generate random names")
 
+st.sidebar.markdown("""---""")
 st.sidebar.title("Options")
 selected_nations = st.sidebar.multiselect("Select Nations", nations)
 ngram_order = st.sidebar.slider("ORDER 🡢 higher order = closer to existing names", 1, 4, 3) + 1
@@ -28,6 +28,9 @@ opt2 = "List"
 opt3 = "Table"
 display_style = st.sidebar.radio("Display style", [opt1, opt2, opt3])
 
+st.sidebar.markdown("""---""")
+st.sidebar.markdown('''Created by: :rainbow[Filaster Kania]''')
+st.sidebar.markdown('''Github: :rainbow[prince-of-inf]''')
 # Main content
 st.title("RPG Name Generator App")
 
