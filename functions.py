@@ -50,7 +50,7 @@ def generate_names_markov_chain(df, starts, names, ngram_order, n=10, chaos_fact
         word = re.sub("[^a-zA-Z]+", "", word).lower() # remove !
         # if only non-existing names - check if exists
         if name_exist_flag == True:
-            if (re.sub('[^a-zA-Z]+', '', word[0]) in names) == True:
+            if (word in names) == True:
                 continue
         # No one letter names
         if len(word) < 2:
