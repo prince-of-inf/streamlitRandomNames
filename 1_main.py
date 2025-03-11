@@ -29,7 +29,7 @@ opt3 = "Table"
 display_style = st.sidebar.radio("Display style", [opt1, opt2, opt3])
 
 st.sidebar.markdown("""---""")
-st.sidebar.markdown('''Created by: :rainbow[Filaster Kania]''')
+st.sidebar.markdown('''Created by: :rainbow[Filaster Kania©]''')
 st.sidebar.markdown('''Github: :rainbow[prince-of-inf]''')
 # Main content
 st.title("RPG Name Generator App")
